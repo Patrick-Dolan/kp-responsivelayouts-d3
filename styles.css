@@ -1,3 +1,5 @@
+/* Globals */
+
 body {
   margin: 0;
   font-family: Roboto;
@@ -13,6 +15,8 @@ h1 {
   margin: 0 auto;
 }
 
+/* Intro Section */
+
 .intro {
   background-color: #23424A;
 }
@@ -24,4 +28,13 @@ h1 {
 
 .intro-btn {
   margin-top: 2em;
+  font-weight: 700;
+  background-color: #38CFD9;
+  color: #072A2D;
+  font-size: 21px;
+  border: none;
+  text-decoration: none;
+  text-align: center;
+  padding: .75em 1.25em;
+  border-radius: 1.5em;
 }
