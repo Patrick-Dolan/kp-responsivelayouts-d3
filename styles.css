@@ -19,6 +19,16 @@ h1 {
   margin: 0 auto;
 }
 
+.row {
+  display: flex;
+  gap: 3em;
+}
+
+.col {
+  width: 100%;
+  text-align: center;
+}
+
 /* Intro Section */
 
 .intro {
@@ -52,4 +62,16 @@ h1 {
 .btn:hover,
 .btn:focus {
   opacity: .75;
+}
+
+/* 2 column section */
+
+.three-col-section {
+  margin: 4em 0;
+}
+
+/* 3 column section */
+
+.two-col-section {
+  margin: 4em 0;
 }
