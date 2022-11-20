@@ -67,11 +67,17 @@ h1 {
 /* 2 column section */
 
 .three-col-section {
-  margin: 4em 0;
+  padding: 4em 0;
+}
+
+.three-col-section h2 {
+  color: #87629A
 }
 
 /* 3 column section */
 
 .two-col-section {
-  margin: 4em 0;
+  padding: 4em 0;
+  background-color: #136C72;
+  color: white;
 }
